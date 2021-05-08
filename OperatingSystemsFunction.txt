@@ -1,0 +1,3 @@
+Important functions of an Operating System
+
+Device Management: An OS manages device communication through their respective drivers. Device management keeps track of all devices connected to the system, designates a program responsible for every device known as the Input/Output controller. It also decides how long takes for processing to get access a certain device.
